@@ -1,0 +1,5 @@
+Troll-lord,10,water,sturdy,0,regenerate
+Lion-lord,20,normal,super,1,bite,slash,smash
+Vampire-lord,30,water,fast,0,bite,poison,shriek
+Werewolf-lord,40,normal,super,1,bite,stun,smash
+Lich-lord,50,lightning,super,0,slash,poison,shriek,stun,smash

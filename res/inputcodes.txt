@@ -1,0 +1,38 @@
+input codes
+
+Xbox inputs
+
+Buttons binary ON/OFF
+X = BTN_WEST
+B = BTN_EAST
+Y = BTN_NORTH
+A = BTN_SOUTH
+
+Left D-Pad -1 to 1
+left/right = ABS_HAT0X
+up/down = ABS_HAT0Y
+
+Left Joystick 12bit?
+left/right = ABS_Y
+up/down = ABS_X
+
+Right Joystick
+left/right = ABS_RY
+up/down = ABS_RX
+
+Bumpers Binary ON/OFF
+Left Bumper = BTN_TL
+Right Bumper = BTN_TR
+
+Triggers 8bit
+left trigger = ABS_Z
+right trigger = ABS_RZ
+
+Joystick clicks ON/OFF
+BTN_THUMBL
+BTN_THUMBR
+
+Middle Buttons
+left = BTN_START
+right = BTN_SELECT
+

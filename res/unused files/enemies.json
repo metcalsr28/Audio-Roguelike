@@ -1,0 +1,252 @@
+{
+    "enemies":
+    [
+        {
+            "Name": "Wage Slave",
+            "Health": 4,
+            "Level": 1,
+            "Attackpower":2,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Manager",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Boss's Nephew",
+            "Health": 2,
+            "Level": 2,
+            "Attackpower":2,
+            "accuracy":2,
+            "Dodge Chance":6,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Veteran",
+            "Health": 6,
+            "Level": 3,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Office Millenial",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "The Coffee-Maker",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "IT Neckbeard",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "The CTO",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Karen",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "The Gossip Queen",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Accountant",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Secretary",
+            "Health": 6,
+            "Level": 4,
+            "Attackpower":7,
+            "accuracy":2,
+            "Dodge Chance":5,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        },
+        {
+            "Name": "Executive",
+            "Health": 6,
+            "Level": 2,
+            "Attackpower":4,
+            "accuracy":2,
+            "Dodge Chance":2,
+            "Loot Table":
+            [
+                {
+                    "Item ID":1,
+                    "Drop Chance":0.25
+                },
+                {
+                    "Item ID":2,
+                    "Drop Chance":0.25
+                }
+            ]
+        }
+    ]
+}

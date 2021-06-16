@@ -1,0 +1,5 @@
+idea for program entry point
+
+`Intro and name of game is announced with bgm
+`Nano tells the player to press any button for the main menu.
+Options: Freeplay, Story Mode, Tutorial, Settings?

@@ -1,0 +1,22 @@
+NOTES 3-25
+* FIXED - damage is printing floats, numbers are seemingly random, possibly float damage?
+* FIXED - player doesn't die and -1 health
+* FIXED - enemies of same name share health
+* FIXED - says "you leave the town between fights."
+* FIXED - second fight, wolf and skeleton start with same, negative health
+
+NOTES 3-26
+FINISHED:
+* BarkeepState
+* MissionSelectState
+* MerchantState
+* TrainingState
+* add spells
+* add state.bosses and state.spells
+* gate should not let player out without mission
+* add level up shrine
+* add wishing well with buffs
+add ability to switch between spells and dagger in combat
+need to review and add sound effects
+Lower sounds: Windchimes, etc.
+buffs will likely make player stronger each turn

@@ -1,0 +1,16 @@
+Name,cost,affinity,modifier,cool_down,abilities
+Wolf,1,normal,fast,1,bite
+Skeleton,1,normal,sturdy,999,none
+Zombie,2,water,sturdy,2,bite
+Goblin,3,normal,fast,3,slash
+Snake,4,normal,fast,3,poison
+Spider,4,water,sturdy,1,poison,bite
+Ghost,5,normal,ephemeral,2,shriek
+Giant Spider,5,normal,sturdy,1,poison,bite
+Orc,6,normal,fast,1,stun,slash
+Ogre,7,lightning,sturdy,2,stun,smash
+Troll,7,water,sturdy,0,regenerate
+Lion,8,normal,super,1,bite,slash,smash
+Vampire,9,water,fast,0,bite,poison,shriek
+Werewolf,9,normal,super,1,bite,stun,smash
+Lich,10,lightning,super,0,slash,poison,shriek,stun,smash

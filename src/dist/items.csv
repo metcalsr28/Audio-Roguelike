@@ -1,0 +1,11 @@
+Item ID, Item Name, Effect ID,Price
+1,Health Potion,1,10
+2,antidote,2,10
+3,bandage,3,15
+4,Strength Potion,4,15
+5,Agility Potion,5,15
+6,Mana Potion,6,20
+7,Water Potion,7,20
+8,Fire Potion,8,20
+9,Lightning Potion,9,20
+10,Block Potion,10,30

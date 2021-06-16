@@ -1,0 +1,1 @@
+./Monster.py:        wave_obj = sa.WaveObject.from_wave_file("sound effects\\monster sounds\\" + self.name + "_cry.wav")

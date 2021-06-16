@@ -1,0 +1,7 @@
+Facts about the game:
+29 Source files
+24 Python Classes
+5 CSVs
+Over 100 unique sound effects
+16 Monsters
+5 Bosses

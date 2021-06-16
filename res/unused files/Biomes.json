@@ -1,0 +1,117 @@
+{
+    "Biomes":
+    [
+        {
+            "Name": "Biome template",
+            "Description": "This is a example template, it demonstrates how to create biomes",
+            "Encounterable enemies": [
+                "A list of standard enemies that can be encountered in this biome. Other factors may apply encounterability"
+            ],
+            "Unique Encounters": [
+                " A list of unique events that can happen in this biome"
+            ],
+            "Bosses": [
+                "A list containing, the boss or bosses of a given biome"
+            ],
+            "Unique Rewards": [
+                "A list of rewards that can only be found in this biome"
+            ]
+        },
+        {
+            "Name": "Cubicle Farm",
+            "Description": "An endless sea of cubicles where boring people live out their boring lives",
+            "Encounterable enemies": [
+                "Wage Slave",
+                "Manager",
+                "Boss's Nephew",
+                "Veteran"
+            ],
+            "Unique Encounters": [
+                {
+
+                }
+            ],
+            "Bosses": [
+
+            ],
+            "Unique Rewards": [
+
+            ]
+        },
+        {
+            "Name": "Leisure Area",
+            "Description": "A terrible place filled with that demonstrates the worst of corporate excess",
+            "Encounterable enemies": [
+                "Office Millenial"
+            ],
+            "Unique Encounters": [
+                {
+                    
+                }
+            ],
+            "Bosses": [
+                "The Coffee-Maker"
+            ],
+            "Unique Rewards": [
+                "Stress Ball"
+            ]
+        },
+        {
+            "Name": "IT",
+            "Description": "It's like a zombie movie, except instead of groans and grunts, you hear mindless drones endlessly repeating the phrase 'reinvent the wheel'",
+            "Encounterable enemies": [
+                "IT Neckbeard"
+            ],
+            "Unique Encounters": [
+                {
+
+                }
+            ],
+            "Bosses": [
+                "The CTO"
+            ],
+            "Unique Rewards": [
+                "Gant Chart"
+            ]        
+        },
+        {
+            "Name": "HR",
+            "Description": "A den of cackling harpies that wield their power with impunity",
+            "Encounterable enemies": [
+                "Karen"
+            ],
+            "Unique Encounters": [
+                {
+
+                }
+            ],
+            "Bosses": [
+                "The Gossip Queen"
+            ],
+            "Unique Rewards": [
+                "Write-up Slip"
+            ]
+        },
+        {
+            "Name": "Board Rooms",
+            "Description": "The class differences are shocking",
+            "Encounterable enemies": [
+                "Accountant",
+                "Secretary",
+                "Executive"
+            ],
+            "Unique Encounters": [
+                {
+
+                }
+            ],
+            "Bosses": [
+                "Jeff Jobs"
+            ],
+            "Unique Rewards": [
+                
+            ]        
+        }
+    ]
+}
+
